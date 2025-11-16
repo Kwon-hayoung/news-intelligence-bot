@@ -14,7 +14,8 @@
 
 | 모델 | 학습 데이터셋 | 모델 링크 |
 |------|----------------|------------|
-| **Mistral LoRA (16bit merged)** | 🔗 https://huggingface.co/datasets/HaGPT/Political-Economy-Expert-QA | 🔗 https://huggingface.co/HaGPT/mistral-lora-16bit |
+| **Mistral LoRA (16bit merged)** | <a href="https://huggingface.co/datasets/HaGPT/Political-Economy-Expert-QA" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-Dataset-orange?logo=huggingface" /></a> | <a href="https://huggingface.co/HaGPT/mistral-lora-16bit" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-Model-blue?logo=huggingface" /></a> |
+
 
 
 
