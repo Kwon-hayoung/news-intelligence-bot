@@ -19,5 +19,5 @@
 | **Mistral LoRA (16bit merged)** | <a href="https://huggingface.co/datasets/HaGPT/Political-Economy-Expert-QA" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-Dataset-orange?logo=huggingface" /></a> | <a href="https://huggingface.co/HaGPT/mistral-lora-16bit" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-Model-blue?logo=huggingface" /></a> |
 
 
-## 🤖 Streamlit 기반 챗봇
-<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/f93d7c80-c56b-48ed-b9c1-c922a66d2b9c" />
+## 🤖 Gradio 기반 챗봇
+<img width="1688" height="495" alt="image" src="https://github.com/user-attachments/assets/1e66785f-31f8-469d-9e54-1b8d72d3e3a3" />
