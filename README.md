@@ -1,7 +1,7 @@
 # 🦥 Unsloth 기반 LLM 파인튜닝 프로젝트
 
 ## 🤖 Gradio 기반 챗봇
-<img width="1510" height="930" alt="image" src="https://github.com/user-attachments/assets/3abf9b2b-b435-47aa-a026-2a03cb4f1911" />
+<img width="1471" height="924" alt="image" src="https://github.com/user-attachments/assets/0b9cd341-03e1-4a54-ad1a-aca76976f637" />
 
 ## 왜 파인튜닝을 하는가?
 - 본 프로젝트는 정치·경제·거시 분석처럼 일반 LLM이 다루기 어려운 전문 분야 답변의 정확성을 높이기 위해 수행
